@@ -25,9 +25,9 @@
 
 - 💬 Ask me about **React, Node.js, Express, MySQL, Python**
 
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **Kothapalliraghava2002@gmail.com**
 
-- 📄 Check out my resume: [https://drive.google.com/your-resume-link](https://drive.google.com/your-resume-link)
+- 📄 Check out my resume: [https://drive.google.com/your-resume-link]([https://drive.google.com/your-resume-link](https://docs.google.com/document/d/1jDjAY5i7CD56YM94bMT9Tb1IfcyJrPNeJ4v8OpYkZXk/edit?usp=drive_link))
 
 ---
 
